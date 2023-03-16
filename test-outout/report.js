@@ -105,7 +105,7 @@ formatter.match({
   "location": "LoginPageStepDefinition.i_am_on_the_Sauce_Demo_Login_Page()"
 });
 formatter.result({
-  "duration": 6549066100,
+  "duration": 7339489000,
   "status": "passed"
 });
 formatter.match({
@@ -122,28 +122,28 @@ formatter.match({
   "location": "LoginPageStepDefinition.i_fill_the_account_information_for_account_StandardUser_into_the_field_and_the_field(String,String)"
 });
 formatter.result({
-  "duration": 301530000,
+  "duration": 319772800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginPageStepDefinition.i_click_the_Login_Button()"
 });
 formatter.result({
-  "duration": 3158712700,
+  "duration": 3139252500,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginPageStepDefinition.i_am_redirected_to_the_Sauce_Demo_Main_Page()"
 });
 formatter.result({
-  "duration": 9084300,
+  "duration": 20848800,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginPageStepDefinition.i_verify_the_App_Logo_exists()"
 });
 formatter.result({
-  "duration": 106561400,
+  "duration": 97775100,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -240,7 +240,7 @@ formatter.match({
   "location": "LoginPageStepDefinition.i_am_on_the_Sauce_Demo_Login_Page()"
 });
 formatter.result({
-  "duration": 5447550200,
+  "duration": 5895551500,
   "status": "passed"
 });
 formatter.match({
@@ -257,14 +257,14 @@ formatter.match({
   "location": "LoginPageStepDefinition.i_fill_the_account_information_for_account_StandardUser_into_the_field_and_the_field(String,String)"
 });
 formatter.result({
-  "duration": 416568700,
+  "duration": 323672400,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginPageStepDefinition.i_click_the_Login_Button()"
 });
 formatter.result({
-  "duration": 3141455700,
+  "duration": 3116948800,
   "status": "passed"
 });
 formatter.match({
@@ -277,7 +277,7 @@ formatter.match({
   "location": "LoginPageStepDefinition.i_verify_the_Error_Message_contains_the_text(String)"
 });
 formatter.result({
-  "duration": 9057900,
+  "duration": 3258200,
   "status": "passed"
 });
 });

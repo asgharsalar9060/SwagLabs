@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="19.139586">
-    <testcase classname="Swag Labs login feature" name="Successful Login" time="10.124954">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="20.256569">
+    <testcase classname="Swag Labs login feature" name="Successful Login" time="10.917138">
         <system-out>
             <![CDATA[Given I am on the Sauce Demo Login Page.....................................passed
 When I fill the account information for account StandardUser into the "standard_user" field and the "secret_sauce" field.passed
@@ -10,7 +10,7 @@ And I verify the App Logo exists............................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="Swag Labs login feature" name="Failed Login" time="9.014632">
+    <testcase classname="Swag Labs login feature" name="Failed Login" time="9.339431">
         <system-out>
             <![CDATA[Given I am on the Sauce Demo Login Page.....................................passed
 When I fill the account information for account StandardUser into the "locked_out_user" field and the "secret_sauce" field.passed
